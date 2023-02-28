@@ -1,0 +1,11 @@
+float add(float ,float );
+float sub(float ,float );
+float mult(float ,float );
+float div(float ,float );
+int modulo(int , int );
+float sine(float );
+float cosine(float );
+float tangent(float );
+float logten(float );
+float squareroot(float );
+float exponent(float );
